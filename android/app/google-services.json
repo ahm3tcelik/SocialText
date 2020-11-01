@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44447560351",
+    "firebase_url": "https://flutter-social-text.firebaseio.com",
+    "project_id": "flutter-social-text",
+    "storage_bucket": "flutter-social-text.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44447560351:android:361426837ed8861ea3a8aa",
+        "android_client_info": {
+          "package_name": "com.ahmetc.socialtext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44447560351-p1e75m96nhomulb721u4kvg10mehu8kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTSL2NRlL4BJrC7Ykgjm9S4VQUQD3SjB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44447560351-p1e75m96nhomulb721u4kvg10mehu8kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
